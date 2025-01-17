@@ -1,0 +1,2 @@
+# Maui_client_AspNetCoreWebApi_example
+Maui client for AspNetCoreWebApi_example_beaer services
