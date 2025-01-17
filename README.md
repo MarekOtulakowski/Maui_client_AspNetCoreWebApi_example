@@ -1,2 +1,3 @@
 # Maui_client_AspNetCoreWebApi_example
-Maui client for AspNetCoreWebApi_example_bearer services
+example project created in Visual Studio 2022
+Maui client for AspNetCoreWebApi_example_bearer web service
